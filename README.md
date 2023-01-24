@@ -1,1 +1,1 @@
-# SNDLib-to-Kathar-
+# SNDLib to Kathará
